@@ -1,2 +1,2 @@
-sphinx==2.4.5
+sphinx==8.2.3
 shibuya==2025.5.30
